@@ -1,9 +1,9 @@
 {
   "devices": {
-    "rest:127.0.0.1:8080": {
+    "rest:127.0.0.1:8181": {
       "rest": {
         "ip": "127.0.0.1",
-        "port": 8080,
+        "port": 8181,
         "username": "dev",
         "password": "dev",
         "protocol": "http"
