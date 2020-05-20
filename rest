@@ -1,1 +1,25 @@
 
+{
+  "devices": {
+  "devices": {
+    "rest:127.0.0.1:8181": {
+      "rest": {
+      "rest": {
+        "ip": "127.0.0.1",
+        "ip": "127.0.0.1",
+        "port": 8181,
+        "username": "dev",
+        "username": "dev",
+        "password": "dev",
+        "password": "dev",
+        "protocol": "http"
+        "protocol": "http"
+@@ -13,4 +13,4 @@
+      }
+      }
+    }
+    }
+  }
+  }
+}
+}
